@@ -1,0 +1,7 @@
+**/*.o
+Makefile.config
+*.txt
+bin
+obj
+out.list
+.vscode
